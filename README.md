@@ -14,6 +14,7 @@ Note that my C/C++ is a bit rusty...
 Learning links:
  - OpenGL:  https://learnopengl.com/book/book_pdf.pdf
  - Maze Generator: https://github.com/rendertom/Maze-Generator
+ - Glitter: https://github.com/Polytonic/Glitter
 
 
 # Status:
