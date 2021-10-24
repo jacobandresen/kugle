@@ -49,6 +49,7 @@ CMakefile things are kinda working . No actual things on screen.
 * Install CMake 
 * Type the following:
 ```
+	git submodule update --init --recursive
 	cd Build
 	cmake -G "Visual Studio 16" ..
 ```
